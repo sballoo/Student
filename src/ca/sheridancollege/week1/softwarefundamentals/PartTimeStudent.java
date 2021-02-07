@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author shai
+ * @author shai Jan 2021
  */
 public class PartTimeStudent extends Student{
 
