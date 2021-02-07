@@ -17,8 +17,8 @@ import java.util.Scanner;
 public class StudentList {
     
     public static void main(String[] args)
-    {//changed array size to 5
-       Student [] studentList = new Student[5];//change size before running
+    {
+       Student [] studentList = new Student[4];//change size before running
       Scanner input = new Scanner(System.in);
        
        
