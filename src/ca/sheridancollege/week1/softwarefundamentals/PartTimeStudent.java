@@ -10,7 +10,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @author shai Jan 2021
  */
 public class PartTimeStudent extends Student{
-
+//this is done
     public PartTimeStudent(int numCourses, String name) {
         super(name);
         this.numCourses = numCourses;
